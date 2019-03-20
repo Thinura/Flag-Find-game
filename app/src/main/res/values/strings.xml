@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Flag Find</string>
+    <string name="action_settings">Settings</string>
+    <string name="switch_timer_off">Timer Off</string>
+    <string name="switch_timer_on">Timer On</string>
+    <string name="guess_the_country">Guess the Country</string>
+    <string name="guess_the_flag">Guess the Flag</string>
+    <string name="advanced_level">Advanced Level</string>
+    <string name="guess_hints">Guess-Hints</string>
+    <string name="lb_timer">Timer</string>
+    <string name="lb_guess_the_country">Guess the country</string>
+    <string name="lb_submit">Submit</string>
+    <string name="lb_android_launcher">Android Launcher</string>
+    <string name="lb_correct">CORRECT</string>
+    <string name="lb_wrong">WRONG</string>
+    <string name="lb_timer_10">10</string>
+    <string name="lb_select_the_correct_flag">Select the correct Flag</string>
+    <string name="lb_next">NEXT</string>
+    <string name="lb_incorrect_character">Incorrect character</string>
+    <string name="lb_guess_character">Guess Character:</string>
+    <string name="lb_score">Score</string>
+    <string name="lb_guess_countries_for_all_flags">Guess Countries for all Flags</string>
+    <string name="lb_flag1">Flag1:</string>
+    <string name="lb_name_of_the_flag_1">Name of the Flag 1</string>
+    <string name="lb_flag2">Flag2:</string>
+    <string name="lb_name_of_the_flag_2">Name of the Flag 2</string>
+    <string name="lb_flag3">Flag3:</string>
+    <string name="lb_name_of_the_flag_3">Name of the Flag 3</string>
+
+</resources>
